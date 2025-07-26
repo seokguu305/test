@@ -9,7 +9,7 @@ base_time = now.strftime("%H00")
 
 # 기상청 해양 API 정보
 endpoint = "http://apis.data.go.kr/1360000/MarineWeatherInfoService/getSeaFcst"
-service_key = "uVlewaNuxkPT1MejspqtD9zkInFxx%2BdAgTcFJvdGTVNfVHbrr3mK23k0MU6teAOf0uZ37%2BLEjuqWtei34I1vVg%3D%3D"
+service_key = "uVlewaNuxkPT1MejspqtD9zkInFxx+dAgTcFJvdGTVNfVHbrr3mK23k0MU6teAOf0uZ37+LEjuqWtei34I1vVg=="
 
 # 예보 지역 코드 (예: 동해 바다: 11B00000) — 지역코드는 실제 지역에 따라 다름
 # 아래 예시는 강원 동해 앞바다
